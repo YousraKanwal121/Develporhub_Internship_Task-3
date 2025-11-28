@@ -281,3 +281,41 @@ Data-driven marketing ends with success.”
 Yousra Kanwal
 Data Science & Analytics Intern
 DeveloperHub Corporation
+
+
+
+
+---
+
+
+
+### Bright Background Plots Preview:
+
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Feature%20Correlation%20Heatmap.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Distribution%20of%20Age.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/job%20Category.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Marital%20Status%20Count.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Education%20Status%20Count.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Distribution%20of%20Balance.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Housing%20Status%20Count.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Number%20of%20Contact.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Subscription%20Description.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Age%20Distribution%20by%20Subscription.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/job%20vs%20Subscription.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Confusion%20Matrix.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Deposit%20Acceptance%20Rate%20by%20job.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-3/blob/main/Deposit%20Acceptance%20Rate%20by%20Education.PNG)
+
+---
+
+---
+
+
+
+
+
+
+
+
+
+
